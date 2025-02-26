@@ -58,5 +58,5 @@ Developed an **audio-to-text conversion tool** using **Wav2Vec2 and Hugging Face
 
 ---
 
-💡 **Feedback Welcome!**  
+## 💡 **Feedback Welcome!**  
 I'm always open to learning and growing as a developer. Feel free to **connect** and **collaborate** with me! 🚀  
