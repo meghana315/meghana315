@@ -34,7 +34,7 @@ A **web-based resume builder** that allows users to generate professional resume
 
 ### 🔹 **AutoSocialContent-Generator** 📝  
 An **AI-powered content generation tool** that automates the creation of social media posts using **NLP and text generation models**. Integrated with **Google Colab** for seamless deployment.  
-[🔗 GitHub Repo](https://github.com/meghana315/AutoSocialContent-Generator)  
+[🔗 GitHub Repo](https://github.com/meghana315/Auto-content-generator)  
 
 ### 🔹 **Audio-to-Text Transcription** 🎙  
 Developed an **audio-to-text conversion tool** using **Wav2Vec2 and Hugging Face Transformers** for accurate transcription. Processed audio using **PyTorch, torchaudio, and Pydub**.  
@@ -53,7 +53,7 @@ Developed an **audio-to-text conversion tool** using **Wav2Vec2 and Hugging Face
 ## 📬 Connect with Me  
 
 📧 **Email:** bandimeghana315@gmail.com 
-💼 **LinkedIn:** [Meghana's Profile](www.linkedin.com/in/bandi-meghana-143588305)  
+💼 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/bandi-meghana-143588305)  
 🏗️ **GitHub:** [Meghana315](https://github.com/meghana315)  
 
 💡 **Feedback Welcome!**  
