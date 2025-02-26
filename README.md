@@ -56,5 +56,7 @@ Developed an **audio-to-text conversion tool** using **Wav2Vec2 and Hugging Face
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/bandi-meghana-143588305/)  
 🏗️ **GitHub:** [Github Profile](https://github.com/meghana315)  
 
+---
+
 💡 **Feedback Welcome!**  
 I'm always open to learning and growing as a developer. Feel free to **connect** and **collaborate** with me! 🚀  
