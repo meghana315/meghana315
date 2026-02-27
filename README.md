@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/meghana-bandi-143588305//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bandimeghana315@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/meghana315"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://ieeexplore.ieee.org"><img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
+  <a href="https://ieeexplore.ieee.org/document/11377404"><img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
 </p>
 
 ---
