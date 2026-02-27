@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bandi-meghana-143588305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/meghana-bandi-143588305//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bandimeghana315@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/meghana315"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ieeexplore.ieee.org"><img src="https://img.shields.io/badge/IEEE-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
@@ -53,7 +53,7 @@ I'm a **Final-Year B.Tech student in Computer Science (AIML)** at Vardhaman Coll
 
 > **A Machine Learning-Based Approach for Predicting Doctor Profession Likelihood Using Astrological Indicators**  
 > 📍 *IEEE International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT), 2025*  
-> 🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org)
+> 🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/11377404)
 
 Applied supervised ML models (Logistic Regression, Random Forest, SVM, XGBoost) on structured astrological data with thorough feature engineering and evaluation using Accuracy, Precision, Recall, and F1-Score.
 
@@ -71,7 +71,7 @@ Applied supervised ML models (Logistic Regression, Random Forest, SVM, XGBoost) 
 
 ## 🚀 Projects
 
-### 🤖 [ML-Based Profession Prediction System](https://github.com/meghana315)
+### 🤖 [ML-Based Profession Prediction System](https://ieeexplore.ieee.org/document/11377404)
 > Python · Scikit-learn · XGBoost · Pandas · NumPy
 
 Predictive ML model using structured astrological features to estimate profession likelihood. Evaluated four classification algorithms with hyperparameter tuning. **Contributed to an IEEE-published paper.**
@@ -130,7 +130,7 @@ I'm always open to collaborating on **AI/ML projects**, discussing research, or 
 
 <p align="center">
   <a href="mailto:bandimeghana315@gmail.com">📧 bandimeghana315@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/bandi-meghana-143588305/">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/meghana-bandi-143588305/">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/meghana315">🐙 GitHub</a>
 </p>
 
